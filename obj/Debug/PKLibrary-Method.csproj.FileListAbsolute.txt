@@ -1,0 +1,13 @@
+C:\_MyWork\_Prokits\PKLibrary-Method\PKLibrary-Method\bin\Debug\PKLibrary-Method.dll
+C:\_MyWork\_Prokits\PKLibrary-Method\PKLibrary-Method\bin\Debug\PKLibrary-Method.pdb
+C:\_MyWork\_Prokits\PKLibrary-Method\PKLibrary-Method\obj\Debug\PKLibrary-Method.dll
+C:\_MyWork\_Prokits\PKLibrary-Method\PKLibrary-Method\obj\Debug\PKLibrary-Method.pdb
+C:\_MyWork\_Prokits\PKLibrary-Method\PKLibrary-Method\obj\Debug\PKLibrary-Method.csprojResolveAssemblyReference.cache
+D:\_MyWork\_Prokits\PKLibrary-Method\PKLibrary-Method\bin\Debug\PKLibrary-Method.dll
+D:\_MyWork\_Prokits\PKLibrary-Method\PKLibrary-Method\bin\Debug\PKLibrary-Method.pdb
+D:\_MyWork\_Prokits\PKLibrary-Method\PKLibrary-Method\obj\Debug\PKLibrary-Method.csprojResolveAssemblyReference.cache
+D:\_MyWork\_Prokits\PKLibrary-Method\PKLibrary-Method\obj\Debug\PKLibrary-Method.dll
+D:\_MyWork\_Prokits\PKLibrary-Method\PKLibrary-Method\obj\Debug\PKLibrary-Method.pdb
+D:\_MyWork\_Prokits\PKLibrary-Method\PKLibrary-Method\bin\Debug\ClosedXML.dll
+D:\_MyWork\_Prokits\PKLibrary-Method\PKLibrary-Method\bin\Debug\ClosedXML.xml
+D:\_MyWork\_Prokits\PKLibrary-Method\PKLibrary-Method\bin\Debug\DocumentFormat.OpenXml.dll
